@@ -1,5 +1,5 @@
-# Hi 👋, I'm Hamza Shafi
-
+<img width="1302" height="722" alt="image" src="https://github.com/user-attachments/assets/2e23ccbf-690f-41d4-9265-b28db476ddb1" /># Hi 👋, I'm Hamza Shafi
+https://hamzashafi.vercel.app/
 ## 💫 About Me
 🎓 BS Computer Science Student
 
