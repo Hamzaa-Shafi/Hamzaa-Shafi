@@ -1,5 +1,3 @@
-git revert <99bba2864d1370eb9d1ee3d3f47247a109c22912>
-git push
 
 <div align="center">
 
