@@ -1,3 +1,6 @@
+git revert <99bba2864d1370eb9d1ee3d3f47247a109c22912>
+git push
+
 <div align="center">
 
 ![Header](https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Hamza%20Shafi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Front%20End%20Developer&descAlignY=55&descSize=20)
